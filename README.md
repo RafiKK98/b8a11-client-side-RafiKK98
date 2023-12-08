@@ -1,5 +1,4 @@
-# Batch-8 Assignment-11
-## Online Group Study Network App 
+# Online Group Study Network App using the MERN stack 
 
 ### Features:
 
@@ -10,8 +9,20 @@
 - The My Assignments page shows the submissions a particular user has made.
 - The App has dynamic routes for users logged in otherwise the navbar shows only the public page-routes
 
+### Technologies and libraries:
+- React 
+- React-router
+- TailwindCSS
+- Firebase
+- Axios
+- Framer-motion
+- NodeJS
+- ExpressJS
+- JsonWebtoken
+- MongoDB
+
 #### Links:
 
-- Live site link: [https://online-group-study-app.web.app/](https://online-group-study-app.web.app/)
-- Client repository: [https://github.com/Porgramming-Hero-web-course/b8a11-client-side-RafiKK98](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-RafiKK98)
-- Server repository: [https://github.com/Porgramming-Hero-web-course/b8a11-server-side-RafiKK98](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-RafiKK98)
+- Live site link: [https://yummy-cemetery.surge.sh](https://yummy-cemetery.surge.sh)
+- Client repository: [https://github.com/RafiKK98/mern-online-group-study-app-client](https://github.com/RafiKK98/mern-online-group-study-app-client)
+- Server repository: [https://github.com/RafiKK98/mern-online-group-study-app-server](https://github.com/RafiKK98/mern-online-group-study-app-server)
